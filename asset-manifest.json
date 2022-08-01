@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/appreact/static/css/main.073c9b0a.css",
+    "main.js": "/appreact/static/js/main.f256597d.js",
+    "static/js/787.5480e000.chunk.js": "/appreact/static/js/787.5480e000.chunk.js",
+    "static/media/logo.svg": "/appreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/appreact/index.html",
+    "main.073c9b0a.css.map": "/appreact/static/css/main.073c9b0a.css.map",
+    "main.f256597d.js.map": "/appreact/static/js/main.f256597d.js.map",
+    "787.5480e000.chunk.js.map": "/appreact/static/js/787.5480e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f256597d.js"
+  ]
+}
