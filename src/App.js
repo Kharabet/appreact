@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>PUSH GIT</p>
+        <p>PUSH GIT!!!</p>
       </header>
     </div>
   );
